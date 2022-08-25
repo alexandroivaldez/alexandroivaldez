@@ -3,7 +3,6 @@ Hello, I’m @alexandroivaldez
 - I’m currently the AP Computer Science A teacher at a local highschool where I teach students Java & Javascript 👨🏽‍🏫
 - I practically live at coffee shops! My favorite spot is Coral Sword in Houston, Texas ☕🤠
 - I'm interested in continuing my learning by coding/collaborating on Python, Java, or Javascript projects 💻
-- If you would like to get in contact with me feel free to reach out on Twitter @alxndro_vldz 🐦
 - Thanks for stopping by! 👋🏽
 
 <!---
