@@ -1,8 +1,6 @@
-Code instructor @getmimo 🍎
-Developer for hire 👨🏽‍💻
-Digital Nomad 🌍
+Code instructor @getmimo. Frontend developer for hire. Digital Nomad.
 
-www.alexandrovaldez.dev
+Personal Portfolio: www.alexandrovaldez.dev
 
 Thanks for stopping by! 👋🏼
 
