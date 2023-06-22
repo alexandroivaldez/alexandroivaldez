@@ -1,4 +1,4 @@
-Code instructor @getmimo. Frontend developer for hire. Digital Nomad.
+Web development instructor at DevMountain. Frontend developer. Digital Nomad.
 
 Personal Portfolio: www.alexandrovaldez.dev
 
