@@ -1,4 +1,4 @@
-Web development instructor at DevMountain. Frontend developer. Digital Nomad.
+Web development instructor. Frontend developer. Digital Nomad.
 
 Personal Portfolio: www.alexandrovaldez.dev
 
