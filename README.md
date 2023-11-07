@@ -1,4 +1,4 @@
-Web development instructor. Frontend developer. Digital Nomad.
+Full Stack Developer. Digital Nomad.
 
 Personal Portfolio: www.alexandrovaldez.dev
 
