@@ -1,6 +1,7 @@
 Full Stack Developer. Digital Nomad.
 
-Personal Portfolio: www.alexandrovaldez.dev
+- Personal Portfolio: www.alexandrovaldez.dev
+- My Resume: [Alexandro Valdez](https://docs.google.com/document/d/1PwleqIX7K08M_efCdCfIUpbAE-IpjucJOnEg-OKar8g/edit?usp=sharing)
 
 Please look below to check out my favorite projects.
 
