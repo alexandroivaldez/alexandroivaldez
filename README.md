@@ -2,6 +2,8 @@ Full Stack Developer. Digital Nomad.
 
 Personal Portfolio: www.alexandrovaldez.dev
 
+Please look below to check out my favorite projects.
+
 Thanks for stopping by! 👋🏼
 
 <!---
