@@ -2,6 +2,8 @@ Full Stack Developer. Digital Nomad.
 
 - Personal Portfolio: www.alexandrovaldez.dev
 - My Resume: [Alexandro Valdez](https://docs.google.com/document/d/1PwleqIX7K08M_efCdCfIUpbAE-IpjucJOnEg-OKar8g/edit?usp=sharing)
+- Certs: AWS CCP
+- Stack: MongoDB, Express, React, Node, Tailwind
 
 Please look below to check out my favorite projects.
 
