@@ -1,4 +1,4 @@
-Professional full stack developer, avid digital nomad and occasionally a devops engineer.
+Professional full stack developer, avid traveler and I occasionally dable with devops/automation.
 
 - Personal Portfolio: www.alexandrovaldez.dev
 - My Resume: [Alexandro Valdez](https://docs.google.com/document/d/1PwleqIX7K08M_efCdCfIUpbAE-IpjucJOnEg-OKar8g/edit?usp=sharing)
