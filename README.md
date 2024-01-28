@@ -2,9 +2,9 @@ Professional full stack developer, avid traveler and I occasionally dable with d
 
 - Personal Portfolio: www.alexandrovaldez.dev
 - My Resume: [Alexandro Valdez](https://docs.google.com/document/d/1PwleqIX7K08M_efCdCfIUpbAE-IpjucJOnEg-OKar8g/edit?usp=sharing)
-- Certs: [AWS CCP](https://www.credly.com/badges/0d1c8fb5-e1fe-47f0-a26e-a8a4cd32147c/public_url)
-- Tech Stack: MongoDB, Express, React, Node, Tailwind, Selenium
-- 2024 Projects: [Pirate Software's Game Jam 14](https://github.com/alexandroivaldez/game-jam-14) & AlexaFish
+- Certs: [AWS CCP](https://www.credly.com/badges/0d1c8fb5-e1fe-47f0-a26e-a8a4cd32147c/public_url), Terraform Associate (coming soon)
+- 2024 Projects: [Pirate Software's Game Jam 14](https://github.com/alexandroivaldez/game-jam-14)
+- Instagram: [@av.iex](https://www.instagram.com/av.iex/)
 
 Please look below to check out my favorite projects.
 
