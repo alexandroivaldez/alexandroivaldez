@@ -2,7 +2,7 @@ Professional full stack developer, avid traveler and I occasionally dable with d
 
 - Personal Portfolio: www.alexandrovaldez.dev
 - My Resume: [Alexandro Valdez](https://docs.google.com/document/d/1PwleqIX7K08M_efCdCfIUpbAE-IpjucJOnEg-OKar8g/edit?usp=sharing)
-- Certs: [AWS CCP](https://www.credly.com/badges/0d1c8fb5-e1fe-47f0-a26e-a8a4cd32147c/public_url)
+- Certs: [AWS CCP](https://www.credly.com/badges/0d1c8fb5-e1fe-47f0-a26e-a8a4cd32147c/public_url), [GH Foundations](https://www.credly.com/badges/0cb4b7e4-af1a-4857-b975-c32325a3a71c/public_url)
 - 2024 Projects:
   - [Pirate Software's Game Jam 14](https://github.com/alexandroivaldez/game-jam-14)
   - [Devlog](https://github.com/alexandroivaldez/devlog)
