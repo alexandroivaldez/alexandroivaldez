@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Alex.
+# ☁️ Hello, I'm Alex
 
-- A devops, infrastructure as code, automation and AWS enthusiast ☁️ 
+- A devops, infrastructure as code, automation and AWS enthusiast. 
 
 ## Hobbies
 
