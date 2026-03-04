@@ -1,4 +1,4 @@
-# ☁️ Hello, I'm Alex
+# Hello, I'm Alex
 
 Former Full-Stack Developer turned **DevOps & Cloud Engineer** focused on building secure, scalable, and automated cloud infrastructure.
 
