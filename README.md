@@ -18,7 +18,7 @@ I specialize in **Infrastructure as Code, AWS-native architectures, automation, 
 
 | Category                       | Technologies                                                                                                               |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
-| **Cloud Platforms**            | AWS (EC2, S3, VPC, IAM, Lambda, ECS, EKS, Fargate, CloudWatch, GuardDuty, Security Hub, Config), Google Cloud (GCP), Azure |
+| **Cloud Platforms**            | AWS (EC2, S3, VPC, IAM, Lambda, ECS, EKS, FarGate, CloudWatch, GuardDuty, Security Hub, Config), Google Cloud (GCP), Azure |
 | **Infrastructure as Code**     | Terraform, CloudFormation                                                                                                  |
 | **Containers**                 | Docker, ECS, ECR                                                                                                           |
 | **CI/CD & Automation**         | GitHub Actions, Terraform Pipelines, Python, Bash, PowerShell                                                              |
