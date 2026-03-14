@@ -35,7 +35,7 @@ I specialize in **Infrastructure as Code, AWS-native architectures, automation, 
 
 ## Hobbies & Interests
 
-- Photography — [@35mmgraveyard](https://www.instagram.com/35mmgraveyard/)
+- Photography — [Instagram](https://www.instagram.com/35mmgraveyard/)
 - Reading (12+ books per year goal)
 - Collecting vintage Pokémon cards
 
