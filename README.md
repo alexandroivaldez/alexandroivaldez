@@ -1,18 +1,16 @@
-# Hello, I'm Alex
+# Hello, I'm Alex 👨🏻‍💻
 
-Former Full-Stack Developer turned **DevOps & Cloud Engineer** focused on building secure, scalable, and automated cloud infrastructure.
+I started as a coding bootcamp instructor, then became a fullstack developer, and now I'm a DevOps & Cloud Engineer. I bring a rare combination of teaching clarity, full-stack depth, and a passion for building secure, scalable, and automated cloud infrastructure.
 
-I specialize in **Infrastructure as Code, AWS-native architectures, automation, and cloud security**.
-
----
+In the era of AI, cloud adoption is easy. Doing it securely, cost-efficiently, and with production-grade pipelines is not. That's where I come in.
 
 ## Certifications
 
-- AWS Certified Solutions Architect – Associate
-- AWS Certified AI Practitioner
-- AWS Certified Cloud Practitioner
+🥇 AWS Certified Solutions Architect – Associate
 
----
+🥇 AWS Certified AI Practitioner
+
+🥇 AWS Certified Cloud Practitioner
 
 ## Technical Skills
 
@@ -20,27 +18,17 @@ I specialize in **Infrastructure as Code, AWS-native architectures, automation, 
 | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
 | **Cloud Platforms**            | AWS (EC2, S3, VPC, IAM, Lambda, ECS, EKS, FarGate, CloudWatch, GuardDuty, Security Hub, Config), Google Cloud (GCP), Azure |
 | **Infrastructure as Code**     | Terraform, CloudFormation                                                                                                  |
-| **Containers**                 | Docker, ECS, ECR                                                                                                           |
+| **Containers**                 | Docker, Kubernetes, ECS, ECR                                                                                               |
 | **CI/CD & Automation**         | GitHub Actions, Terraform Pipelines, Python, Bash, PowerShell                                                              |
 | **Security (DevSecOps)**       | IAM Policies, Least-Privilege Access, GuardDuty, Security Hub, Config, Vulnerability Assessment, Secret Scanning           |
 | **Serverless & Event-Driven**  | Lambda, EventBridge, SQS, SNS, API Gateway, Cloud Run                                                                      |
 | **Backend & APIs**             | Node.js, Express, REST APIs                                                                                                |
 | **Databases**                  | PostgreSQL, MongoDB                                                                                                        |
-| **Monitoring & Observability** | CloudWatch                                                                                                                 |
+| **Monitoring & Observability** | CloudWatch, Prometheus, Grafana                                                                                            |
 | **Version Control & Workflow** | Git, GitHub, CodeCommit, Agile (Scrum/Kanban), Jira                                                                        |
 | **Operating Systems**          | Linux (Amazon Linux 2, Ubuntu), Windows, macOS                                                                             |
 | **Languages**                  | Fluent English, Conversational Spanish                                                                                     |
 
----
-
-## Hobbies & Interests
-
-- Photography — [Instagram](https://www.instagram.com/35mmgraveyard/)
-- Reading (12+ books per year goal)
-- Collecting vintage Pokémon cards
-
----
-
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/alexandro-valdez/)
+The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/alexandro-valdez/), so I know you're real!
