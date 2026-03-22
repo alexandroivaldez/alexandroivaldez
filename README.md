@@ -4,7 +4,9 @@ I started as a coding bootcamp instructor, then became a fullstack developer, an
 
 In the era of AI, cloud adoption is easy. Doing it securely, cost-efficiently, and with production-grade pipelines is not. That's where I come in.
 
-## Projects
+I'm currently open to DevOps, Platform Engineering, and Cloud Security roles.
+
+## Recent Activity
 
 📁 [deployment-observatory](https://github.com/alexandroivaldez/deployment-observatory) - A live CI/CD dashboard that lets anyone watch a real deployment happen in the browser, as it happens.
 
