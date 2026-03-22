@@ -4,6 +4,12 @@ I started as a coding bootcamp instructor, then became a fullstack developer, an
 
 In the era of AI, cloud adoption is easy. Doing it securely, cost-efficiently, and with production-grade pipelines is not. That's where I come in.
 
+## Projects
+
+📁 [deployment-observatory](https://github.com/alexandroivaldez/deployment-observatory) - A live CI/CD dashboard that lets anyone watch a real deployment happen in the browser, as it happens.
+
+📁 [github-iac-terraform](https://github.com/alexandroivaldez/github-iac-terraform) - I'm managing my GitHub repos through Terraform.
+
 ## Certifications
 
 🥇 AWS Certified Solutions Architect – Associate
